@@ -1,4 +1,3 @@
-import './style';
-import App from './components/app';
+import Provider from './provider';
 
-export default App;
+export default Provider;
