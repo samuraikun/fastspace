@@ -20,11 +20,12 @@
   "devDependencies": {
     "eslint": "^5.9.0",
     "eslint-config-developit": "^1.1.1",
+    "fast-async": "^6.3.8",
     "identity-obj-proxy": "^3.0.0",
     "if-env": "^1.0.0",
     "jest": "^21.2.1",
     "node-firestore-import-export": "^0.10.3",
-    "preact-cli": "^2.1.0",
+    "preact-cli": "^2.2.1",
     "preact-render-spy": "^1.2.1",
     "prettier": "1.15.2"
   },
