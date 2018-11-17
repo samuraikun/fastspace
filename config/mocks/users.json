@@ -1,0 +1,15 @@
+{
+  "__collections__": {
+    "users": {
+      "1": {
+        "name": "samuraikun"
+      },
+      "2": {
+        "name": "bob"
+      },
+      "3": {
+        "name": "lee"
+      }
+    }
+  }
+}
